@@ -65,6 +65,7 @@ streamlit run app.py
    - Play the generated audio narration
 
 Example Output:
+
 ![Example Output](img-audio/output_img.png)
 
 ## 💻 Technical Details
