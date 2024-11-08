@@ -12,7 +12,7 @@ The application follows a pipeline architecture where:
 3. Story is converted to speech using ChatTTS
 4. Final audio file is generated for playback
 
-## 📱 Application Interface
+📱 Application Interface
 
 ![Streamlit UI](img-audio/app_ui_streamlit.png)
 
@@ -82,13 +82,15 @@ Additional technical features:
 
 ## 📁 Project Structure
 
+```
 image-to-story-converter/
-├── app.py # Main application file
-├── requirements.txt # Project dependencies
-├── .env # Environment variables (create this)
+├── app.py                # Main application file
+├── requirements.txt      # Project dependencies
+├── .env                 # Environment variables (create this)
 ├── utils/
-│ └── custom.py # Custom CSS and utilities
+│   └── custom.py       # Custom CSS and utilities
 └── docs/
+```
 
 ## ⚠️ Notes
 
