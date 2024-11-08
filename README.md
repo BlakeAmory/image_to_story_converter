@@ -31,8 +31,8 @@ Example Output:
 1. Clone the repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/BlakeAmory/image_to_story_converter.git
+cd image_to_story_converter
 ```
 
 2. Install dependencies
@@ -89,7 +89,6 @@ image-to-story-converter/
 ├── utils/
 │ └── custom.py # Custom CSS and utilities
 └── docs/
-└── demo.gif # Application demo
 
 ## ⚠️ Notes
 
