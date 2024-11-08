@@ -16,9 +16,6 @@ The application follows a pipeline architecture where:
 
 ![Streamlit UI](img-audio/app_ui_streamlit.png)
 
-Example Output:
-![Example Output](img-audio/output_img.png)
-
 ## 🌟 Features
 
 - Image to text conversion using BLIP model
@@ -66,6 +63,9 @@ streamlit run app.py
    - Convert the story to speech using ChatTTS
    - Display both the description and story in expandable sections
    - Play the generated audio narration
+
+Example Output:
+![Example Output](img-audio/output_img.png)
 
 ## 💻 Technical Details
 
