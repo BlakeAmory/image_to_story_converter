@@ -1,0 +1,10 @@
+.env
+
+.pyc
+__pycache__
+utils\__pycache__
+
+asset
+.pt
+.safetensors
+.json
